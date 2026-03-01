@@ -1,0 +1,14 @@
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=newpassword123
+DB_NAME=svams_db
+
+# ── Flask ───────────────────────────────────────────
+FLASK_SECRET_KEY=higweifiwejfbijsijbnknn
+JWT_SECRET_KEY=nfknfkasjnfafnlaknan
+FLASK_PORT=5000
+FLASK_DEBUG=True
+
+# ── Streamlit ───────────────────────────────────────
+API_BASE_URL=http://localhost:5000/api
